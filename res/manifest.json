@@ -1,0 +1,22 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "NoSplashes",
+    "description": "Delete splashes in main menu",
+    "uuid": "778bc5b9-09ba-413e-9044-9e0b164d81b3",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Delete splashes in main menu",
+      "type": "resources",
+      "uuid": "84250c8f-c11c-44b8-842a-9613598e2faf",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Murzik179"],
+    "license": "GPL GPL-v3.0",
+    "url": "https://github.com/Murzik179/NoSplashes"
+  }
+}
